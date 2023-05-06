@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectPhase1</string>
+
+    <string name="Header"> Spain claim the glory</string>
+    <string name="Fifa"> FIFAs Selection For you </string>
+    <string name="Fifatext1"> Spain\'s win was their first World Cup title, as well as the first World Cup win by a European team outside Europe. Iniesta was named the man of the match, while Casillas was awarded the Golden Glove as FIFA\'s outstanding goalkeeper of the tournament. Spain went on to win UEFA Euro 2012 for their third successive trophy, but failed to defend the World Cup at the 2014 tournament in Brazil, becoming the second successive World Cup holders to be eliminated in the group phase after defeats against the Netherlands and Chile.  Background </string>
+    <string name="button"> Watch More</string>
+    <string name="Fifatext2"> The win was Spain\'s first World Cup title, and it lifted them to first place in the FIFA World Rankings with the Netherlands moving into second.[64] Spain also became the first European nation to win a World Cup outside of Europe.[65]</string>
+    <string name="SeeMore">See More Events</string>
+
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectPhase1</string>
+    <string name="Header">España reclama la gloria</string>
+    <string name="Fifa">Selección FIFAs Para ti</string>
+    <string name="Fifatext1">La victoria de España fue su primer título de la Copa del Mundo, así como la primera victoria de la Copa del Mundo de un equipo europeo fuera de Europa. Iniesta fue nombrado el hombre del partido, mientras que Casillas recibió el Guante de Oro como mejor portero del torneo de la FIFA. España ganó la UEFA Euro 2012 por su tercer trofeo consecutivo, pero no pudo defender la Copa del Mundo en el torneo de 2014 en Brasil, convirtiéndose en el segundo campeón del mundo consecutivo en ser eliminado en la fase de grupos después de las derrotas contra Holanda y Chile. Fondo</string>
+    <string name="button">Ver más</string>
+    <string name="Fifatext2">La victoria fue el primer título de la Copa del Mundo de España, y los elevó al primer lugar en la Clasificación Mundial de la FIFA con Holanda pasando al segundo lugar.[64] España también se convirtió en la primera nación europea en ganar una Copa del Mundo fuera de Europa.[65]</string>
+    <string name="SeeMore">Ver más eventos</string>
+</resources>

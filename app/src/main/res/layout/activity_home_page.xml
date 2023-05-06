@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parentView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".HomePage">
+
+
+    <TextView
+        android:id="@+id/Text2"
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="179dp"
+        android:paddingLeft="8dp"
+        android:text="Dive in
+        Football History"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textSize="48dp"
+        android:textStyle="bold"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/Text3"
+        android:layout_width="248dp"
+        android:layout_height="19dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="158dp"
+        android:layout_marginBottom="305dp"
+        android:paddingLeft="8dp"
+        android:text="Discover the history of football"
+        android:textAllCaps="false"
+        android:textSize="12dp"
+        android:textStyle="normal"
+        tools:ignore="MissingConstraints,TextSizeCheck" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="117dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="121dp"
+        android:text="Start Your Journey" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="117dp"
+        android:layout_marginEnd="11dp"
+        android:layout_marginBottom="59dp"
+        android:text="Activate Notifications" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="563dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="-20dp"
+        app:srcCompat="@drawable/soccer_bro" />
+
+    <com.google.android.material.switchmaterial.SwitchMaterial
+        android:id="@+id/ThemeSwitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="-526dp"
+        android:layout_marginEnd="274dp"
+        android:minHeight="48dp"
+        android:text="Dark Mode" />
+
+
+
+</RelativeLayout>
+
